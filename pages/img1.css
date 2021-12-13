@@ -1,0 +1,36 @@
+body {
+  color: rgb(54, 54, 54);
+  text-align: center;
+  padding: 2.5rem;
+  margin: 5rem;
+  font-family: Futura;
+}
+
+#page {
+  margin: 3rem;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0rem;
+}
+
+.img {
+  margin: 3%;
+  padding: 0%;
+  flex-basis: 45%;
+}
