@@ -65,6 +65,8 @@ a:hover {
   text-align: center;
   filter: grayscale(0%);
   box-shadow: rgba(0, 0, 0, 0.349) 0px 5px 15px 0px;
+  border-style: double;
+  border-color: #c94a18;
 }
 
 .img-title {
